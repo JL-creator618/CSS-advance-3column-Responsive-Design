@@ -68,6 +68,6 @@ I just have to wait for my mentor to give me proper advis how to fix this.
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@jade lam]https://github.com/JL-creator618
+- Github - [jade lam] https://github.com/JL-creator618
 
 
