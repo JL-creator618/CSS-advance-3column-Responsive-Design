@@ -59,22 +59,6 @@ I started with 1 column first and after I got the same layout, I applied them on
 It helps me to have a better visual as I add bright backgrount-colors to each steps.
 I also combine items as they have same layout, that will reduce line of codes. 
 
-To see how you can add code snippets, see below:
-
-```css
-.card-content-orange, .card-content-darkcyan, .card-content-verydarkcyan{
-    box-sizing: border-box;
-    flex-wrap: wrap;
-    display: flex;
-    flex-direction: column;
-    width:18rem;
-    height: 45%;
-    justify-content: space-between;
-    align-items: flex-start;
-    padding: 2rem;
-    /* background-color: hsl(252, 81%, 36%); *for visual**/
-}
-
 
 ### Continued development
 
